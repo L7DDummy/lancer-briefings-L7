@@ -95,7 +95,7 @@ export default {
       "missions": [
         {
           "slug": "001",
-          "name": "Bug-Hunt",
+          "name": "Arrival",
           "status": "start"
         },
       ],
@@ -123,8 +123,8 @@ export default {
         "system": "Olympus-7",
         "gate": "N/A",
         "ring": "Carpathian-Line",
-        "headerTitle": "Mirrorsmoke",
-        "headerSubtitle": "Mercenary Company",
+        "headerTitle": "JUTF",
+        "headerSubtitle": "Joint Union Task Force",
         "subheaderTitle": "SIMM",
         "subheaderSubtitle": "Mission Brief",
       },
