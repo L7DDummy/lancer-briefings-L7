@@ -98,6 +98,11 @@ export default {
           "name": "Arrival",
           "status": "start"
         },
+         {
+          "slug": "001",
+          "name": "Digging In",
+          "status": "start"
+        },
       ],
       "pilots": [
         {
