@@ -106,12 +106,12 @@ export default {
       ],
       "pilots": [
         {
-          "callsign": "Pilot1",
-          "alias": "P1",
+          "callsign": "Z-3",
+          "alias": "Hildegard 'Hilde' Weiss",
           "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "PH2"
+          "corpro": "IPS-N",
+          "frame": "Lancaster",
+          "mech": "G.A.L.E"
         },
         {
           "callsign": "Pilot2",
